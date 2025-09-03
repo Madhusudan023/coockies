@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body{
+	justify-content: center;
+	align-item:center;
+	
+	
+}
+div{
+	padding-top: 10px;
+	height:100px; 
+	width:100%; 
+	background-color: skyblue;
+	text-align:center;
+}
+
+form{
+	margin-top:10px;
+	justify-content: center;
+	
+display:grid;
+width: 500px
+}
+
+lable, button{
+	margin-top:10px;
+	font-size:30px;
+}
+
+ input{
+   transform: scale(1.5); 
+ }
